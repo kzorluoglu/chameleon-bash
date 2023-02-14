@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="messages.en.xliff">
+        <body>
+            <trans-unit id="Mar">
+                <source>Mar</source>
+                <target>Mrz</target>
+            </trans-unit>
+            <trans-unit id="May">
+                <source>May</source>
+                <target>Mai</target>
+            </trans-unit>
+            <trans-unit id="Oct">
+                <source>Oct</source>
+                <target>Okt</target>
+            </trans-unit>
+            <trans-unit id="Dec">
+                <source>Dec</source>
+                <target>Dez</target>
+            </trans-unit>
+
+            <trans-unit id="contact_form.first_and_last_name">
+                <source>contact_form.first_and_last_name</source>
+                <target>First and last name</target>
+            </trans-unit>
+            <trans-unit id="contact_form.email">
+                <source>contact_form.email</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit id="contact_form.message">
+                <source>contact_form.message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="contact_form.recaptcha.fail">
+                <source>contact_form.recaptcha.fail</source>
+                <target>Please fill out this field</target>
+            </trans-unit>
+            <trans-unit id="contact_form.privacy_policy">
+                <source>contact_form.privacy_policy</source>
+                <target><![CDATA[I have read and understood the <a href="%privacyPolicyPageAbsoluteUrl%">privacy policy</a>.]]></target>
+            </trans-unit>
+            <trans-unit id="contact_form.body_placeholder">
+                <source>contact_form.body_placeholder</source>
+                <target>Message</target>
+            </trans-unit>
+           <trans-unit id="contact_form.send_message">
+                <source>contact_form.send_message</source>
+                <target>Send</target>
+            </trans-unit>
+           <trans-unit id="contact_form.name_placeholder">
+                <source>contact_form.name_placeholder</source>
+                <target>First- and lastname</target>
+            </trans-unit>
+            <trans-unit id="contact_form.recaptcha.consent_inactive">
+                <source>contact_form.recaptcha.consent_inactive</source>
+                <target><![CDATA[To submit this form, you have to approve the function <i>Google Recaptcha</i> in the <a onclick="window.__cmp('showScreenAdvanced');">consent manager</a> (blue symbol at the bottom).]]></target>
+            </trans-unit>
+            <trans-unit id="contact_form.send">
+                <source>contact_form.send</source>
+                <target>Send</target>
+            </trans-unit>
+            <trans-unit id="contact_form.phone">
+                <source>contact_form.phone</source>
+                <target>Phone</target>
+            </trans-unit>
+            <trans-unit id="contact_form.callback_request">
+                <source>contact_form.callback_request</source>
+                <target>Callback</target>
+            </trans-unit>
+            <trans-unit id="directions.g_maps.consent_inactive">
+                <source>directions.g_maps.consent_inactive</source>
+                <target><![CDATA[To view the maps, you have to approve the function <i>Google Maps</i> in the <a onclick="window.__cmp('showScreenAdvanced');">consent manager</a> (blue symbol at the bottom).]]></target>
+            </trans-unit>
+            <trans-unit id="blog.no_blog_items">
+                <source>blog.no_blog_items</source>
+                <target>No blog posts available</target>
+            </trans-unit>
+            <trans-unit id="jobs.no_job_items">
+                <source>jobs.no_job_items</source>
+                <target>Currently we have no job offers</target>
+            </trans-unit>
+            <trans-unit id="jobs.headline_location">
+                <source>jobs.headline_location</source>
+                <target>Our job offers for the location</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.headline">
+                <source>contact_footer.headline</source>
+                <target>Contact</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.germany">
+                <source>contact_footer.germany</source>
+                <target>Germany</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.email">
+                <source>contact_footer.email</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.phone_short">
+                <source>contact_footer.phone_short</source>
+                <target>Tel.</target>
+            </trans-unit>
+            <trans-unit id="service_footer.headline">
+                <source>service_footer.headline</source>
+                <target>Services</target>
+            </trans-unit>
+            <trans-unit id="article_paging.back">
+                <source>article_paging.back</source>
+                <target>Previous</target>
+            </trans-unit>
+            <trans-unit id="article_paging.next">
+                <source>article_paging.next</source>
+                <target>Next</target>
+            </trans-unit>
+            <trans-unit id="article_jobDetails.back">
+                <source>article_jobDetails.back</source>
+                <target>to our job offers</target>
+            </trans-unit>
+
+            <trans-unit id="article.job_employment_type.fullTime">
+                <source>article.job_employment_type.fullTime</source>
+                <target>full-time</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.partTime">
+                <source>article.job_employment_type.partTime</source>
+                <target>part-time</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.partOrFullTime">
+                <source>article.job_employment_type.partOrFullTime</source>
+                <target>full- or part-time</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.traineeship">
+                <source>article.job_employment_type.traineeship</source>
+                <target>traineeship</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.dualStudy">
+                <source>article.job_employment_type.dualStudy</source>
+                <target>dual study</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.education">
+                <source>article.job_employment_type.education</source>
+                <target>education</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

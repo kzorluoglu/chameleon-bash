@@ -4,11 +4,25 @@
 composer require kzorluoglu/chameleon-bash:dev-main
 ```
 
+Add Bundle under registerBundles() in the app/AppKernel.php
+
+```php
+    public function registerBundles()
+    {
+        $bundles = array(
+            ..
+            ...
+            ...
+            new \kzorluoglu\ChameleonBash\kzorluogluChameleonBashBundle(),
+
+```
+
+
+### Basic Usage
 A runtime developer console, interactive debugger for Chameleon System 7.1.x
 
 ```
 kzorluoglu@server:~/$ bin/console chameleon_system:shell
-
 
 
 Psy Shell v0.11.12 (PHP 7.4.33 — cli) by Justin Hileman

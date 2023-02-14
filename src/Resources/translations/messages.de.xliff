@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="de" datatype="plaintext" original="messages.en.xliff">
+        <body>
+            <trans-unit id="contact_form.first_and_last_name">
+                <source>contact_form.first_and_last_name</source>
+                <target>Vor- und Nachname</target>
+            </trans-unit>
+            <trans-unit id="contact_form.email">
+                <source>contact_form.email</source>
+                <target>E-Mail</target>
+            </trans-unit>
+            <trans-unit id="contact_form.message">
+                <source>contact_form.message</source>
+                <target>Nachricht</target>
+            </trans-unit>
+            <trans-unit id="contact_form.recaptcha.fail">
+                <source>contact_form.recaptcha.fail</source>
+                <target>Bitte füllen Sie dieses Feld aus</target>
+            </trans-unit>
+            <trans-unit id="contact_form.privacy_policy">
+                <source>contact_form.privacy_policy</source>
+                <target><![CDATA[Ich habe die <a href="%privacyPolicyPageAbsoluteUrl%">Datenschutzerklärung</a> zur Kenntnis genommen.]]></target>
+            </trans-unit>
+            <trans-unit id="contact_form.body_placeholder">
+                <source>contact_form.body_placeholder</source>
+                <target>Nachricht</target>
+            </trans-unit>
+           <trans-unit id="contact_form.send_message">
+                <source>contact_form.send_message</source>
+                <target>Absenden</target>
+            </trans-unit>
+           <trans-unit id="contact_form.name_placeholder">
+                <source>contact_form.name_placeholder</source>
+                <target>Vor- und Nachname</target>
+            </trans-unit>
+            <trans-unit id="contact_form.recaptcha.consent_inactive">
+                <source>contact_form.recaptcha.consent_inactive</source>
+                <target><![CDATA[Um dieses Formular absenden zu können, müssen Sie die Funktion <i>Google Recaptcha</i> im <a onclick="window.__cmp('showScreenAdvanced');">Consent Manager</a> (blaues Symbol unten) aktivieren.]]></target>
+            </trans-unit>
+            <trans-unit id="contact_form.send">
+                <source>contact_form.send</source>
+                <target>Absenden</target>
+            </trans-unit>
+            <trans-unit id="contact_form.phone">
+                <source>contact_form.phone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit id="contact_form.callback_request">
+                <source>contact_form.callback_request</source>
+                <target>Rückruf</target>
+            </trans-unit>
+            <trans-unit id="directions.g_maps.consent_inactive">
+                <source>directions.g_maps.consent_inactive</source>
+                <target><![CDATA[Um die Karten sehen zu können, müssen Sie die Funktion <i>Google Maps</i> im <a onclick="window.__cmp('showScreenAdvanced');">Consent Manager</a> (blaues Symbol unten) aktivieren.]]></target>
+            </trans-unit>
+            <trans-unit id="blog.no_blog_items">
+                <source>blog.no_blog_items</source>
+                <target>Keine Blog-Einträge vorhanden</target>
+            </trans-unit>
+            <trans-unit id="jobs.no_job_items">
+                <source>jobs.no_job_items</source>
+                <target>Aktuell haben wir keine Job-Angebote</target>
+            </trans-unit>
+            <trans-unit id="jobs.headline_location">
+                <source>jobs.headline_location</source>
+                <target>Unsere Job-Angebote für den Standort</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.headline">
+                <source>contact_footer.headline</source>
+                <target>Kontakt</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.germany">
+                <source>contact_footer.germany</source>
+                <target>Deutschland</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.email">
+                <source>contact_footer.email</source>
+                <target>E-Mail</target>
+            </trans-unit>
+            <trans-unit id="contact_footer.phone_short">
+                <source>contact_footer.phone_short</source>
+                <target>Tel.</target>
+            </trans-unit>
+            <trans-unit id="service_footer.headline">
+                <source>service_footer.headline</source>
+                <target>Dienstleistungen</target>
+            </trans-unit>
+            <trans-unit id="article_paging.back">
+                <source>article_paging.back</source>
+                <target>Zurück</target>
+            </trans-unit>
+            <trans-unit id="article_paging.next">
+                <source>article_paging.next</source>
+                <target>Weiter</target>
+            </trans-unit>
+            <trans-unit id="article_jobDetails.back">
+                <source>article_jobDetails.back</source>
+                <target>zu unseren Job-Angeboten</target>
+            </trans-unit>
+
+            <trans-unit id="article.job_employment_type.fullTime">
+                <source>article.job_employment_type.fullTime</source>
+                <target>Vollzeit</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.partTime">
+                <source>article.job_employment_type.partTime</source>
+                <target>Teilzeit</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.partOrFullTime">
+                <source>article.job_employment_type.partOrFullTime</source>
+                <target>Voll- oder Teilzeit</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.traineeship">
+                <source>article.job_employment_type.traineeship</source>
+                <target>Praktikum</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.dualStudy">
+                <source>article.job_employment_type.dualStudy</source>
+                <target>Duales Studium</target>
+            </trans-unit>
+            <trans-unit id="article.job_employment_type.education">
+                <source>article.job_employment_type.education</source>
+                <target>Ausbildung</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
