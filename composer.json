@@ -1,0 +1,29 @@
+{
+    "name": "kzorluoglu/chameleon-bash",
+    "description": "A runtime developer console, interactive debugger for Chameleon System 7.1.x",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koray Zorluoglu",
+            "email": "koray@d8devs.com"
+        },{
+            "name": "Théo FIDRY",
+            "email": "theo.fidry@gmail.com"
+
+	}
+    ],
+    "autoload": {
+        "psr-4": {
+            "kzorluoglu\\ChameleonConsole\\" : "src"
+        }
+    },
+    "require": {
+       "php": ">=7.4",
+       "psy/psysh": "@stable",
+       "chameleon-system/chameleon-base": "~7.1.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
